@@ -1,0 +1,41 @@
+const data = {
+  products: [
+    {
+      name: "Nike Shirt",
+      slug: "nike-shirt",
+      catagory: "Garments",
+      Image: "/image/p1.jpg",
+      price: 1000,
+      countInStock: 10,
+      brand: "Nike",
+      rating: 4.5,
+      reviews: 10,
+      description: "nice quality stock",
+    },
+    {
+      name: "Nike grey shirt",
+      slug: "nike-grey",
+      catagory: "Garments",
+      Image: "/image/p2.jpg",
+      price: 1000,
+      countInStock: 10,
+      brand: "Nike",
+      rating: 4.5,
+      reviews: 10,
+      description: "nice quality stock",
+    },
+    {
+      name: "Nike shoes",
+      slug: "nike-shoes",
+      catagory: "shoes",
+      Image: "/image/p3.jpg",
+      price: 1000,
+      countInStock: 10,
+      brand: "Nike",
+      rating: 4.5,
+      reviews: 10,
+      description: "nice quality stock",
+    },
+  ],
+};
+export default data;
